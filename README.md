@@ -1,3 +1,3 @@
-cmake .
-make
-./Render
+cmake .<br>
+make<br>
+./Render<br>
