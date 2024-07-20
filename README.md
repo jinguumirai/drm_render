@@ -1,3 +1,1 @@
-cmake .<br>
-make<br>
-./Render<br>
+correspondence address: jingunmisaki@gmail.com
