@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jinguumirai/cplus_project/drm_render/build",
+  "command": "/usr/bin/c++ -I/usr/include/drm -g -o CMakeFiles/Render.dir/render_cube.cpp.o -c /home/jinguumirai/cplus_project/drm_render/render_cube.cpp",
+  "file": "/home/jinguumirai/cplus_project/drm_render/render_cube.cpp"
+}
+]

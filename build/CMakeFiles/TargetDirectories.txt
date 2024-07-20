@@ -1,0 +1,3 @@
+/home/jinguumirai/cplus_project/drm_render/build/CMakeFiles/Render.dir
+/home/jinguumirai/cplus_project/drm_render/build/CMakeFiles/edit_cache.dir
+/home/jinguumirai/cplus_project/drm_render/build/CMakeFiles/rebuild_cache.dir
